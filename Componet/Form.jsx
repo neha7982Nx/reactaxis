@@ -94,7 +94,7 @@ function Form() {
                     type="date"
                     className="form-control"
                     name="dob"
-                    id=""
+                    id="dob"
                     value={user.dob}
                     onChange={handleInputs}
                     placeholder="DD-MM-YYYY"
